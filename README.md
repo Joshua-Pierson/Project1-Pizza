@@ -3,10 +3,7 @@
 ## Description
 The objective is to create a responsive pizza website were the user can 
 
-
-
-
-
+## Screen Shot
 
 
 
@@ -16,3 +13,8 @@ The objective is to create a responsive pizza website were the user can
 As A
 I Want
 So that
+
+
+## Next Steps
+
+## Author
