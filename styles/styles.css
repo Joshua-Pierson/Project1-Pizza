@@ -21,4 +21,7 @@
     font-weight: 400;
     font-style: normal;
   }
-  
+.pizza-pic-adjust{
+    height: 250px;
+    object-fit: cover;
+}
