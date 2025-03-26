@@ -31,7 +31,7 @@ The objective is to create a responsive pizza website were the user can navagate
     So that
 
 ## Next Steps
-    
+    Next step would be to add somthing to the Rewards tabs like a membership/ rewards account where the user can earn points as well as make it easier for the user to be able to order their favrites fast and efficently. 
 
 ## Author
     Joshua Pierson: www.linkedin.com/in/joshua-pierson726
