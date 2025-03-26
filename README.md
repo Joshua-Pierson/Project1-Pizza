@@ -11,6 +11,7 @@ The objective is to create a responsive pizza website were the user can navagate
     * HTML
     * CSS
     * Bootstrap
+    * Google Fonts
     * W3 HTML Validator
 
 
