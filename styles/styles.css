@@ -32,3 +32,17 @@ body{
 .wings-padding{
     padding-left: 4%;
 }
+.main-padding{
+    justify-items: center; 
+    padding-top: 2%;
+}
+.popular-pizza-padding{
+    padding-top: 2%;
+}
+.starter-padding{
+    padding-top: 7%;
+}
+.card-inter{
+    width: 540px; 
+    height: fit-content;
+}
