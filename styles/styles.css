@@ -28,6 +28,14 @@ header{
 .sauceCard-size{
     width: 7.25rem;
 }
+.pizzaCard-size{
+    width: 540px; 
+    height: fit-content;
+}
+.pizzaimg-size{
+    height: 200px; 
+    object-fit: cover;
+}
 .card-img-adjust{
     height: 133px;
     object-fit: cover;
