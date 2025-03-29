@@ -53,5 +53,5 @@ The objective is to create a responsive pizza website were the user can navagate
  * I would also make it so that you can order more then one item and it can caculate the total of all the items.
 
 ## Author
-Joshua Pierson: [www.linkedin.com/in/joshua-pierson726]
+Joshua Pierson: <a href="https://www.linkedin.com/in/joshua-pierson726" rel="nofollow">@Linkedin</a>
   
