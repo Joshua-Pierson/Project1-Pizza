@@ -15,6 +15,19 @@ header{
     padding: initial;
     margin: 2px;
 }
+.dealCard-img{
+    height: 200px; 
+    object-fit: cover;
+}
+.wingCard-size{
+    width: 16rem;
+}
+.friesCard-size{
+    width: 14.5rem;
+}
+.sauceCard-size{
+    width: 7.25rem;
+}
 .card-img-adjust{
     height: 133px;
     object-fit: cover;
