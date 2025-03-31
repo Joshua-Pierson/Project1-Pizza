@@ -31,12 +31,9 @@ The objective is to create a responsive pizza website were the user can navagate
 ## User Story
 - Story 1
     As A User, I want to be able to see mutuple diffrent deal images on the main page So that I can see whats to offer.
-    So that
 
 - Story 2
     As A User, I want a navbar at the top of the screen as a fixed top, so that i can always browse through the menu on every page.
-    I Want
-    So that
 
 - Story 3
     As a user, I want to fill out a contact form with my name, email, adress, and phone number so that I can place an order on the website.

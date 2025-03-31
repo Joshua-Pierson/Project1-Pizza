@@ -33,7 +33,7 @@ header{
     width: 7.25rem;
 }
 .pizzaCard-size{
-    width: 540px; 
+    width: 100%; 
     height: fit-content;
 }
 .logo-style{
@@ -78,7 +78,7 @@ header{
     padding-top: 11%;
 }
 .card-inter{
-    width: 540px; 
+    width: 100%; 
     height: fit-content;
 }
 .carousel-item img {
