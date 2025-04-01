@@ -11,7 +11,6 @@ header{
 }
 .card{
     width: 15rem;
-    height: fit-content;
     padding: initial;
     margin: 2px;
 }
@@ -24,13 +23,13 @@ header{
     object-fit: cover;
 }
 .wingCard-size{
-    width: 16rem;
+    width: 25rem;
 }
 .friesCard-size{
-    width: 14.5rem;
+    width: 19rem;
 }
 .sauceCard-size{
-    width: 7.25rem;
+    width: 9rem;
 }
 .pizzaCard-size{
     width: 100%; 
