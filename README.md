@@ -25,6 +25,9 @@ The objective is to create a responsive pizza website were the user can navagate
     * CSS
     * Bootstrap
     * Google Fonts
+
+## Geting Started
+<p> To see website: <a href="https://joshua-pierson.github.io/Project1-Pizza/"> Click Here</a></p>
     
 
 
